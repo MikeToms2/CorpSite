@@ -42,6 +42,8 @@
                                     <a href="/jobs">Jobs</a>
                                 </li>
                                 <li>
+                                    <a href="/approvals">Approvals</a>
+                                </li><li>
                                     <a href="#">
                                         Locations
                                     </a>
