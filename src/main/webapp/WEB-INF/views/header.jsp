@@ -42,8 +42,6 @@
                                     <a href="/jobs">Jobs</a>
                                 </li>
                                 <li>
-                                    <a href="/approvals">Approvals</a>
-                                </li><li>
                                     <a href="#">
                                         Locations
                                     </a>
@@ -54,6 +52,9 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
+                                        <li>
+                                    <a href="#">My Place</a>
+                                </li>
                                     </ul>
                                 </li>
                             </ul>
